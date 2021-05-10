@@ -1,0 +1,28 @@
+{
+  "name": "SOLANA DOC ZH",
+  "version": "1.0.0",
+  "description": "soldoc-zh",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "gitbook-plugin-etoc": "^1.2.2",
+    "pre-commit": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:book": "gitbook build",
+    "git:add": "git add -A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.idcos.com:CloudJ/feteam.git"
+  },
+  "keywords": [
+    "sol"
+  ],
+  "author": "jklou",
+  "license": "ISC"
+}

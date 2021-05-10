@@ -1,0 +1,8 @@
+{
+    "title" : "Sol Trans",
+    "author": "jklou",
+    "description": "solana中文",
+	"root": "./docs",
+    "plugins": ["etoc","theme-comscore"],
+    "output": "./blog"
+}
