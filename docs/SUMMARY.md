@@ -43,12 +43,15 @@
 * [集群](architecture/cluster.md)
     * [一个Solana集群](architecture/cluster/a_solana_cluster.md)
     * [同步](architecture/cluster/synchronization.md)
+    * [领导轮休](architecture/cluster/leader_rotation.md)
     * [fork_generation](architecture/cluster/fork_generation.md)
 * [验证](architecture/validator.md)
     * [验证](architecture/validator/anatomy_of_a_validator.md)
     * [TPU](architecture/validator/TPU.md)
     * [TVU](architecture/validator/TVU.md)
     * [区块存储](architecture/validator/blockstore.md)
+    * [Gossip 服务](architecture/validator/gossip_service.md)
+    * [运行时](architecture/validator/the_runtime.md)
 
 ## 经济模式(Economics)
 
